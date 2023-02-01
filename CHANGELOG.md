@@ -1,3 +1,7 @@
+# 1.0.6
+- fix: failing test
+- fix: something
+
 # 1.0.5
 
 # 1.0.4
