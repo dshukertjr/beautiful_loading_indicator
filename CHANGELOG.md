@@ -1,3 +1,6 @@
+# 1.0.4
+- ignored .failed_tracker
+
 ## 1.0.3
 
 - Another version
