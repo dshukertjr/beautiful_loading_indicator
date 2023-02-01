@@ -1,6 +1,6 @@
 name: beautiful_loading_indicator
 description: testing out automated release
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/dshukertjr/beautiful_loading_indicator
 
 environment:
