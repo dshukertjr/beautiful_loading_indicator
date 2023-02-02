@@ -1,3 +1,6 @@
+# 1.0.7
+- feat: adds some comments
+
 # 1.0.6
 - fix: failing test
 - fix: something
