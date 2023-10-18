@@ -1,9 +1,9 @@
 name: beautiful_loading_indicator
-version: 1.0.7
+version: 1.0.8
 description: testing out automated release
 repository: https://github.com/dshukertjr/beautiful_loading_indicator
-environment: 
+environment:
   sdk: '>=2.19.0 <3.0.0'
-dev_dependencies: 
+dev_dependencies:
   lints: ^2.0.0
   test: ^1.21.0
